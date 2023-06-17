@@ -1,2 +1,2 @@
 # Vinyl-Player
-A simple vinyl player simulatior made with Python 3
+A simple vinyl player simulator made with Python 3
